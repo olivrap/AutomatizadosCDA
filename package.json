@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/olivrap/AutomatizadosCDA/issues"
   },
-  "homepage": "https://github.com/olivrap/AutomatizadosCDA#readme"
+  "homepage": "https://github.com/olivrap/AutomatizadosCDA#readme",
+  "devDependencies": {
+    "cypress": "^12.17.3"
+  }
 }
