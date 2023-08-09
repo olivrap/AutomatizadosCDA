@@ -1,23 +1,16 @@
 {
-  "name": "automatizadoscda",
+  "name": "cypressexemplo",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/olivrap/AutomatizadosCDA.git"
-  },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/olivrap/AutomatizadosCDA/issues"
-  },
-  "homepage": "https://github.com/olivrap/AutomatizadosCDA#readme",
   "devDependencies": {
-    "cypress": "^12.17.3"
+    "cypress": "^12.14.0",
+    "cypress-iframe": "^1.0.1"
   }
 }
