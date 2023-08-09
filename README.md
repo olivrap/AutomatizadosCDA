@@ -1,0 +1,9 @@
+# AutomatizadosCDA
+
+Recomendações de execução ....
+
+iniciar NPP:
+>   npm init --yes
+
+instalar cypress:
+>   npm install cypress --save-dev
